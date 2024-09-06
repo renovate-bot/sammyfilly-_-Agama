@@ -14,7 +14,7 @@ futures = "0.3.27"
 futures-util = "0.3.27"
 jsonschema = { version = "0.16.1", default-features = false }
 log = "0.4"
-serde = { version = "1.0.152", features = ["derive"] }
+serde = { version = "1.0.200", features = ["derive"] }
 serde_json = "1.0.94"
 tempfile = "3.4.0"
 thiserror = "1.0.39"
