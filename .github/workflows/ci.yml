@@ -164,6 +164,6 @@ jobs:
     steps:
 
     - name: Coveralls Finished
-      uses: coverallsapp/github-action@v1
+      uses: coverallsapp/github-action@v2
       with:
         parallel-finished: true
