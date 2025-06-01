@@ -84,7 +84,7 @@
     "stylelint": "^15.2.0",
     "stylelint-config-standard": "^33.0.0",
     "stylelint-config-standard-scss": "^8.0.0",
-    "stylelint-webpack-plugin": "^4.1.0",
+    "stylelint-webpack-plugin": "^5.0.0",
     "terser-webpack-plugin": "^5.1.4",
     "ts-jest": "^29.0.3",
     "tsconfig-paths-webpack-plugin": "^4.0.0",
